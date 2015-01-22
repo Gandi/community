@@ -1,3 +1,3 @@
 # Gandi community guidelines
 
-[Community guidelines: #gandi on Freenode](public/IRC.md)
+[Community guidelines: #gandi on Freenode](IRC.md)
