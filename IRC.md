@@ -5,7 +5,7 @@ Gandi has an official #gandi IRC channel on the Freenode network. It's a place w
 Feel free to join at irc://irc.freenode.net/gandi
 
 * Server: irc.freenode.net
-* Port: 6667
+* Port: 6667 (SSL Port: 6697)
 * Channel: #gandi
 
 People who don't have an IRC client installed can use the [webchat](http://webchat.freenode.net/?channels=gandi) provided by Freenode.
