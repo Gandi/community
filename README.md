@@ -8,8 +8,6 @@ We offer an alternative approach to that of our competitors, spending no money o
 
 Read more about [who we are](https://www.gandi.net/whowe/), [what we do](https://www.gandi.net/domain) and [how we do it](https://www.gandi.net/no-bullshit).
 
-Check out the [projects we support](https://www.gandi.net/supports/).
-
 Like what you see? Come [work with us](https://github.com/Gandi/hiring)!
 
 ## Join the community

@@ -21,6 +21,7 @@ If you're able to solve your problem thanks to the people in this channel, great
 We ask you to keep the following things in mind when present on #gandi.
 
 * Be a [catalyst](https://freenode.net/catalysts.shtml). 
+* Do not send private messages to Gandi employees (or anyone, really) without permission.
 * Be patient; there may not always be someone available who can help you. Just ask your question, and stay in the channel. If no one answers, please [open a ticket](https://www.gandi.net/support/contact/mail/) and leave the ticket number (from the subject of the autoreply email) in the channel before signing off, so we can follow up.
 * Don't ask if you can ask a question, just ask your question, and provide enough information in case someone comes along who can help.
 * If you find an answer to your own question, please say so and share your solution to help others.
